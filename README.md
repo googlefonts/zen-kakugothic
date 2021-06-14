@@ -1,5 +1,5 @@
 # Zen Fonts Kaku Gothic
-![Kaku Gothic](Images/kakuGothic.png)
+![Kaku Gothic](images/kakuGothic.png)
 
 ## The story of Zen Fonts
 
