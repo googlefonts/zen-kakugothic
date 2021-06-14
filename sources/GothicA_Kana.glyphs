@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1349";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2021 The Zen Project Authors (https://github.com/positype/Zen-Project)";
+copyright = "Copyright 2021 The Zen Kaku Gothic Project Authors (https://github.com/googlefonts/zen-kakugothic)";
 customParameters = (
 {
 name = license;
