@@ -1,6 +1,9 @@
 # Zen Fonts Kaku Gothic
 
 ![Kaku Gothic](images/kakugothic.png)
+    Zen Kaku Gothic N is a basic Japanese san serif (Gothic) family. With this font, you can express fine typesetting without any professional detailed arrangements. Because of the unique yet simple design, it gives naturally high legibility. Easy to use and read. 
+
+    Zen Kaku Gothic A is a classical yet simple and stylish sans serif family. Highly legible due to orthodox letterform design. Great for various usage, from title to text, and even caption.
 
 ## The story of Zen Fonts
 
