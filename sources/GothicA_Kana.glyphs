@@ -1,5 +1,5 @@
 {
-.appVersion = "1349";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -31,7 +31,7 @@ date = "2021-05-14 05:11:45 +0000";
 designer = "Yoshimichi Ohira";
 designerURL = "https://www.zenfont.jp";
 disablesAutomaticAlignment = 1;
-familyName = "Zen Kaku Gothic A";
+familyName = "Zen Kaku Gothic Antique";
 featurePrefixes = (
 {
 automatic = 1;

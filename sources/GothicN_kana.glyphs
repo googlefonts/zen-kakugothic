@@ -1,5 +1,5 @@
 {
-.appVersion = "1349";
+.appVersion = "1342";
 DisplayStrings = (
 "/wasmall-kata.vert"
 );
@@ -27,7 +27,7 @@ date = "2020-03-17 07:43:43 +0000";
 designer = "Yoshimichi Ohira";
 designerURL = "https://www.zenfont.jp";
 disablesAutomaticAlignment = 1;
-familyName = "Zen Kaku Gothic N";
+familyName = "Zen Kaku Gothic New";
 fontMaster = (
 {
 alignmentZones = (

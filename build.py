@@ -38,8 +38,8 @@ def make_static(instance_descriptor, generator):
     instance1 = generator.generate_instance(instance_descriptor)
     instance2 = copy.deepcopy(instance1)
 
-    instance1.info.familyName = "Zen Kaku Gothic N"
-    instance2.info.familyName = "Zen Kaku Gothic A"
+    instance1.info.familyName = "Zen Kaku Gothic New"
+    instance2.info.familyName = "Zen Kaku Gothic Antique"
 
     instance1.lib['com.github.googlei18n.ufo2ft.filters'] = [{ # extra safe :)
         "name": "flattenComponents",
@@ -50,8 +50,8 @@ def make_static(instance_descriptor, generator):
         "pre": 1,
     }]
     print ("["+instance_descriptor.name+"] Merging A and N kana")
-    step_merge_glyphs_from_ufo(Path("sources/ZenKakuGothicN-"+instance_descriptor.styleName+".ufo"), instance1)
-    step_merge_glyphs_from_ufo(Path("sources/ZenKakuGothicA-"+instance_descriptor.styleName+".ufo"), instance2)
+    step_merge_glyphs_from_ufo(Path("sources/ZenKakuGothicNew-"+instance_descriptor.styleName+".ufo"), instance1)
+    step_merge_glyphs_from_ufo(Path("sources/ZenKakuGothicAntique-"+instance_descriptor.styleName+".ufo"), instance2)
 
     print ("["+instance_descriptor.name+"] Generating")
 
@@ -82,8 +82,8 @@ def make_static(instance_descriptor, generator):
     GASP_set(A_ttf)
     GASP_set(N_ttf)
 
-    A_ttf.save("fonts/ttf/"+str(instance_descriptor.familyName).replace(" ","")+"A-"+instance_descriptor.styleName+".ttf")
-    N_ttf.save("fonts/ttf/"+str(instance_descriptor.familyName).replace(" ","")+"N-"+instance_descriptor.styleName+".ttf")
+    A_ttf.save("fonts/ttf/"+str(instance_descriptor.familyName).replace(" ","")+"Antique-"+instance_descriptor.styleName+".ttf")
+    N_ttf.save("fonts/ttf/"+str(instance_descriptor.familyName).replace(" ","")+"New-"+instance_descriptor.styleName+".ttf")
             
 
 def GASP_set(font:TTFont):
