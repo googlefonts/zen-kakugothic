@@ -79,6 +79,10 @@ value = -288;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = vheaVertLineGap;
+value = 0;
 }
 );
 descender = -140;
@@ -150,6 +154,10 @@ value = -288;
 },
 {
 name = hheaLineGap;
+value = 0;
+},
+{
+name = vheaVertLineGap;
 value = 0;
 }
 );
@@ -223,6 +231,10 @@ value = -288;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = vheaVertLineGap;
+value = 0;
 }
 );
 descender = -140;
@@ -293,6 +305,10 @@ value = -288;
 },
 {
 name = hheaLineGap;
+value = 0;
+},
+{
+name = vheaVertLineGap;
 value = 0;
 }
 );
@@ -366,6 +382,10 @@ value = -288;
 },
 {
 name = hheaLineGap;
+value = 0;
+},
+{
+name = vheaVertLineGap;
 value = 0;
 }
 );
