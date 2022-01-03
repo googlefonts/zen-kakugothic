@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"/a-hira"
+);
 classes = (
 {
 automatic = 1;
@@ -491,7 +494,7 @@ xHeight = 482;
 glyphs = (
 {
 glyphname = "a-hira";
-lastChange = "2021-05-14 05:13:03 +0000";
+lastChange = "2022-01-03 19:22:23 +0000";
 layers = (
 {
 layerId = master01;
@@ -620,6 +623,7 @@ nodes = (
 );
 }
 );
+vertWidth = 1000;
 width = 1000;
 },
 {
@@ -737,6 +741,7 @@ nodes = (
 );
 }
 );
+vertWidth = 1000;
 width = 1000;
 },
 {
@@ -866,6 +871,7 @@ nodes = (
 );
 }
 );
+vertWidth = 1000;
 width = 1000;
 },
 {
@@ -995,6 +1001,7 @@ nodes = (
 );
 }
 );
+vertWidth = 1000;
 width = 1000;
 },
 {
@@ -1121,6 +1128,7 @@ nodes = (
 );
 }
 );
+vertWidth = 1000;
 width = 1000;
 }
 );
@@ -88279,5 +88287,5 @@ uni266A = musicalnote;
 UFOFormat = 3;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
